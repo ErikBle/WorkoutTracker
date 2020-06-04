@@ -18,4 +18,5 @@ Afterwards, you can see the total amount of your workout.
 <img src="/demo/1.jpg">
 
 ## Deployed Link:
+https://workouttracker-2888.herokuapp.com/
 
